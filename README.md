@@ -1,4 +1,4 @@
-## My name is Ean, I love making games!
+## My name is Ean! I building programming the cloud, pretty uis, and most of all I love making games!
 
 <!--
 **E-A-N/E-A-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
