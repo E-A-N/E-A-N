@@ -1,4 +1,4 @@
-## My name is Ean I love coding and making games!
+## My name is Ean, I love making games!
 
 <!--
 **E-A-N/E-A-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=E-A-N)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=E-A-N&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
