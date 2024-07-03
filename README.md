@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://disneyworld.disney.go.com/guest-services/hey-disney/">
-    <img src="https://lumiere-a.akamaihd.net/v1/images/hd-supportpage-hero-desktop_3_b048f553.png?region=0,0,3200,1418" alt="Clickable Image">
+    <img src="https://github.com/E-A-N/E-A-N/assets/17329104/a13c3dd4-c599-4567-84bc-3ff18493e94c" alt="Hey Disney!">
 </a>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=E-A-N&theme=tokyonight" alt="GitHub Streak" /></a>
