@@ -1,4 +1,4 @@
-# My name is Ean! I building things, mostly games!
+# My name is Ean! I love building things, mostly games!
 
 <a href="https://www.harrypotterhogwartsmystery.com/">
     <img src="https://imgs.search.brave.com/Vn6wKfl2xihewl9-NLEsnpm5CfoXQcCsgH-NYmavRUw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMtcHJkLmlnbmlt/Z3MuY29tLzIwMjIv/MTIvMTQvaG93YXJ0/c215c3RlcnktMTY3/MDk3NjQ4ODY2Mi5q/cGc_d2lkdGg9MzAw/JmNyb3A9MToxLHNt/YXJ0JmF1dG89d2Vi/cA" alt="Placeholder Image" alt="Harry Potter Hogwarts Mystery!">
