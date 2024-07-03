@@ -20,4 +20,10 @@
     <img src="https://github.com/E-A-N/E-A-N/assets/17329104/b3237d62-ea8d-47f2-8190-305c6f87776a" width=200 height=200 alt="Panda Pop!">
 </a>
 
+<a href="https://www.flickplay.co/">
+    <img src="https://github.com/E-A-N/E-A-N/assets/17329104/b3237d62-ea8d-47f2-8190-305c6f87776a" width=200 height=200 alt="Panda Pop!">
+</a>
 
+<a href="https://e-a-n.github.io/pixiAsteroidsGame/">
+    <img src="https://github.com/E-A-N/E-A-N/assets/17329104/e447d929-7f8d-4292-bc56-9d27a5689031" width=200 height=200 alt="Pixi Asteroids">
+</a>
