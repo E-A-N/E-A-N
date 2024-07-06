@@ -23,3 +23,7 @@
 <a href="https://e-a-n.github.io/pixiAsteroidsGame/">
     <img src="https://github.com/E-A-N/E-A-N/assets/17329104/e447d929-7f8d-4292-bc56-9d27a5689031" width=200 height=200 alt="Pixi Asteroids">
 </a>
+
+<a href="https://e-a-n.github.io/pathLight-staging">
+    <img src="https://github.com/E-A-N/E-A-N/assets/17329104/34a0ed1b-65f3-4161-a813-265ab96e9ed1" width=200 height=200 alt="Pathlight">
+</a>
