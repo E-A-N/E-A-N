@@ -1,4 +1,5 @@
 # My name is Ean! I love building things, mostly games!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=E-A-N&theme=tokyonight" alt="GitHub Streak">
 </a>
